@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Komentarze do Parafia Św. Mikołaja w Miszewku Strzałkowskim	</title>
+	Komentarze do: 4 Niedziela Adwentu	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>./../index.html</link>
 	<description>Parafia Miszewko</description>
 	<lastBuildDate>Fri, 06 Jan 2023 22:04:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
