@@ -11,11 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Parafia Miszewko</description>
-	<lastBuildDate>Thu, 06 Jul 2023 18:57:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Sep 2023 21:44:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
 </channel>
 </rss>
